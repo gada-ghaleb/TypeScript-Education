@@ -21,10 +21,14 @@ Questo progetto è una scuola di formazione per migranti, sviluppato in TypeScri
     ```bash
     npm install
     ```
-3. Esegui l'app in locale:
+3. Compila il codice TypeScript:
     ```bash
     npx tsc
-    ```  
+    ```
+4. Esegui l'applicazione:
+    ```bash
+   node dist/index.js
+ ```      
 
 ## Deploy
 - Progetto su [CodePen](https://codepen.io/gada-ghaleb/pen/yLmaXKj)
