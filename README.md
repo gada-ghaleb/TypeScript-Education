@@ -27,8 +27,8 @@ Questo progetto è una scuola di formazione per migranti, sviluppato in TypeScri
     ```
 4. Esegui l'applicazione:
     ```bash
-   node dist/index.js
- ```      
+    node dist/index.js
+    ```
 
 ## Deploy
 - Progetto su [CodePen](https://codepen.io/gada-ghaleb/pen/yLmaXKj).
