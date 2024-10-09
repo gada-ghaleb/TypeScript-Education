@@ -32,5 +32,7 @@ Questo progetto è una scuola di formazione per migranti, sviluppato in TypeScri
 
 ## Deploy
 - Progetto su [CodePen](https://codepen.io/gada-ghaleb/pen/yLmaXKj)
+
 ## Autore
 - **Gada Ghaleb** - [GitHub Profile](https://github.com/gada-ghaleb)
+
