@@ -27,7 +27,7 @@ Questo progetto è una scuola di formazione per migranti, sviluppato in TypeScri
     ```
 4. Esegui l'applicazione:
     ```bash
-    node dist/App.js
+    node dist/app.js
     ```
 
 ## Deploy
